@@ -1,0 +1,4 @@
+git add
+git push
+git reset
+git status
